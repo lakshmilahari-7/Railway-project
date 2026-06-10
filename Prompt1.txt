@@ -1,0 +1,1 @@
+Create a simple web application and deploy it using Railway. Explain the steps involved in setting up the project, connecting GitHub, configuring environment variables, and deploying the application successfully.
